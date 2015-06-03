@@ -1,0 +1,5 @@
+_assetic:
+    resource: .
+    type: assetic
+_app:
+    resource: /var/www/trabajo/doGreatProject/app/config/routing_dev.yml
